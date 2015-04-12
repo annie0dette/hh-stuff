@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title> Hagar's House </title>
+<link rel="stylesheet" href="hhstylesheet2.css">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+</head>
+
+
+<body>
+<header> 
+<section id="topbit">
+
+<a href="hhwebtemplate.html"><img src="hagarlogo1.jpeg" width="400" height="150" id="logo"></a>
+
+
+<nav>
+<ul>
+	
+	<li><a href="aboutpage.html">About</a></li>
+	<li><a href="historypage.html">History</a></li>
+	<li><a href="gethelppage.html">Get Help</a></li>
+	<li><a href="getinvolvedpage.html">Get Involved</a></li>
+	<li><a href="donatepage.html">Donate</a></li>
+	<li><a href="newspage.html">News</a></li>
+</ul>
+</nav>
+</section>
+</header>
+
+
+<section class="content">
+<div id="textone">
+<p>
+<h1>Get Help</h1>
+<!--to do: 1 uh put the links in 2 mebbe rewrite it all-->
+If you are in need of temporary housing or would like to know more about our program always feel welcome to call us at (504)210-5064 or shoot us an email at hagarshouse@gmail.com
+<br><br>
+If you are in need of recources beyond what we can provide we highly recommend checking out the New Orleans Community Recource guide which provides a list of services from housing to healthcare and beyond. You can download a free copy here.
+<br><br>
+Other organizations we recommend checking out are listed below.
+<br>
+<!--put them here :0-->
+<br><br>
+Good luck and stay safe.
+</p>
+</div>
+
+	<img src="frontpic1.jpeg" id="hagarpicone" width="400px" height="450px" class="pagepic">
+</section>
+
+
+<div id="footer">
+<footer>
+	
+	For more information please call (504) 210-5064 or email HagarsHouse@gmail.com
+
+</footer>
+</div>
+
+
+
+</body>
+</html>
