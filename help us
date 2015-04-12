@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title> Hagar's House </title>
+<link rel="stylesheet" href="hhstylesheet2.css">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+</head>
+
+
+<body>
+<header> 
+<section id="topbit">
+
+<a href="hhwebtemplate.html"><img src="hagarlogo1.jpeg" width="400" height="150" id="logo"></a>
+
+
+<nav>
+<ul>
+	
+	<li><a href="aboutpage.html">About</a></li>
+	<li><a href="historypage.html">History</a></li>
+	<li><a href="gethelppage.html">Get Help</a></li>
+	<li><a href="getinvolvedpage.html">Get Involved</a></li>
+	<li><a href="donatepage.html">Donate</a></li>
+	<li><a href="newspage.html">News</a></li>
+</ul>
+</nav>
+</section>
+</header>
+
+
+<section class="content">
+<div id="textone">
+<p>
+<h1>Get Involved</h1>
+First Grace United Methodist Church members, students through our service learning partnerships, and members of the wider community all provide vital services and support to Hagar's House. 
+<br><br>
+Frequent volunteer needs are for child care, children's programs, bicycle maintenance & repair, house maintenance and repair, tutoring or homework help for both adults and children, yard work & gardening, cleaning, fundraising (organizing a fundraiser of your own or staffing/helping with a fundraiser organized by the house of one of our partners), and organizing a drive for currently needed items (please contact our donations coordinator to learn what those needs are). We also welcome volunteers who offer one-time or recurring programs & services for individuals or groups of adult residents.
+<br><br>
+Should you be interested in working with us please send an email to Carolyn Mayes at hagarshousevolunteers@gmail.com with a brief message explaining
+<br>
+<ul>
+	<li>your interest in Hagar's House</li>
+	<li>how you would like to be involved</li>
+	<li>how to get in contact with you</li>
+</ul>
+and we'll get back to you as soon as possible.
+<br><br>
+Because Hagar's House is a home first and foremost, we are not usually able to accommodate large groups of volunteers.
+</p>
+</div>
+
+	<img src="frontpic1.jpeg" id="hagarpicone" width="400px" height="450px" class="pagepic">
+</section>
+
+
+<div id="footer">
+<footer>
+	
+	For more information please call (504) 210-5064 or email HagarsHouse@gmail.com
+
+</footer>
+</div>
+
+
+
+</body>
+</html>
