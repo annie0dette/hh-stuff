@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title> Hagar's House </title>
+<link rel="stylesheet" href="hhstylesheet2.css">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+</head>
+
+
+<body>
+<header> 
+<section id="topbit">
+
+<a href="hhwebtemplate.html"><img src="hagarlogo1.jpeg" width="400" height="150" id="logo"></a>
+
+
+<nav>
+<ul>
+	
+	<li><a href="aboutpage.html">About</a></li>
+	<li><a href="historypage.html">History</a></li>
+	<li><a href="gethelppage.html">Get Help</a></li>
+	<li><a href="getinvolvedpage.html">Get Involved</a></li>
+	<li><a href="donatepage.html">Donate</a></li>
+	<li><a href="newspage.html">News</a></li>
+</ul>
+</nav>
+</section>
+</header>
+
+
+<section class="content">
+<div id="textone">
+<p>
+<h1>History</h1>
+In November 2007, in response to the housing crises in New Orleans, First Grace United Methodist Church opened its doors as Hagar's House, a transitional home for women and children.  
+<br><br>
+For six months, four young volunteers ran Hagar's House out of several large rooms inside the church building, providing over 20 women and children with safe shelter and warm meals. As the church witnessed a continuous need for housing for women in New Orleans, it formed the non-profit <a href=http://www.firstgracecommunityalliance.org/> First Grace Community Alliance </a> to sustain Hagar's House, purchased a new house for Hagar's House to move into, and added part-time staff.  In its new location, Hagar's House provides women and children in a state of crisis with an open and empowering residential community, resource assistance, and a creative space to transition into permanent housing.  
+<br><br>
+Since its opening in 2007, Hagar's House has been a place of peace and stability, a sanctuary where over 70 individuals and families have come to rest, gather themselves, and meet their goals.
+</p>
+</div>
+
+	<img src="frontpic1.jpeg" id="hagarpicone" width="45%" height="500em" class="pagepic">
+</section>
+
+
+<div id="footer">
+<footer>
+	
+	For more information please call (504) 210-5064 or email HagarsHouse@gmail.com
+
+</footer>
+</div>
+
+
+
+</body>
+</html>
