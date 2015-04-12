@@ -1,0 +1,140 @@
+#logo {
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1em;
+	width:25em;
+	display: block;
+	}
+
+#topbit {background-color: transparent;
+	border-style: solid;
+	border-width: 10px 0 0 0;
+	border-color: transparent;
+	}
+
+ul {margin: 0;
+	padding: 0 5em 0 5em;
+	}
+
+nav li {display: inline;
+	border-style: solid;
+	border-color: purple;
+	border-radius: 10px;
+	text-decoration: none;
+	color: green;
+	background-color: purple;
+	padding-right: 1em;
+	padding-left: 1em;
+	font-weight: bold;
+	text-align: center;
+	}
+
+
+nav {
+	background-color: purple;
+	font-weight: bolder;
+	display: block;
+	border-style: solid;
+	border-color: purple;
+	border-radius: 10px;
+	float: left;
+	margin: 2em 20% 2em 20%;
+	min-width: 50em
+	}
+	/*note: fix width issue*/
+
+* {
+
+}
+
+body {font-family: 'open sans';
+	margin: 0
+	}
+
+a {color: white;
+	text-decoration: none;}
+
+h1 {color: green}
+
+#textone {float: right;
+	background-color: white;
+	width: 35%;
+	margin-right: 15%;
+	padding-bottom: 5em;
+	}
+
+#texttwo {float: left;
+	background-color: white;
+	width: 35%;
+	margin-left: 15%;
+	margin-top: 5em;
+	padding-bottom: 5em}
+
+.content {
+	padding-top: 2em;
+	padding-bottom: 5em;
+	background-color: transparent;
+	}
+
+footer {
+	padding-top: 2em;
+	font-weight:bold;
+	border-style: solid;
+	border-color: green;
+	border-width: 10px 0 0 0;
+	padding-bottom: 2em;
+	background-color: purple;
+	color: hsl(36,50%,50%);
+	text-align: center;
+	clear: both;
+} 
+
+
+
+
+/*styling for pictures on everything but the home page*/
+.pagepic {	
+	border-radius: 10px;
+	border-style: solid;
+	border-color: transparent;
+	width: 32%;
+	}
+
+#hagarpicone {
+	margin: 3em 0 3em 15%;
+	float:left;
+}
+
+#hagarpictwo {
+	margin: 0 15% 3em 0;
+	float: right;
+}
+
+
+/*experimenting with styling for front page*/
+
+
+a:link {
+    transition: all .5s linear 0;
+    color: hsl(36,50%,50%);
+}
+
+a:visited {color: hsl(36, 50%, 50%);}
+
+a:hover {
+    color: hsl(36,100%,50%);
+}
+
+a:active {color: yellow}
+
+
+
+#frontpagepics {margin-left: 400px;
+	transition:all 0s linear 0;
+	background-color: black;
+	border-style: solid;
+	border-color: yellow
+	}
+
+#frontpagepics:hover {visibility: hidden}
