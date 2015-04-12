@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title> Hagar's House </title>
+<link rel="stylesheet" href="hhstylesheet2.css">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+</head>
+
+
+<body>
+<header> 
+<section id="topbit">
+
+<a href="hhwebtemplate.html"><img src="hagarlogo1.jpeg" width="400" height="150" id="logo"></a>
+
+
+<nav>
+<ul>
+	
+	<li><a href="aboutpage.html">About</a></li>
+	<li><a href="historypage.html">History</a></li>
+	<li><a href="gethelppage.html">Get Help</a></li>
+	<li><a href="getinvolvedpage.html">Get Involved</a></li>
+	<li><a href="donatepage.html">Donate</a></li>
+	<li><a href="newspage.html">News</a></li>
+</ul>
+</nav>
+</section>
+</header>
+
+
+<section class="content">
+<div id="textone">
+<p>
+<h1>News</h1>
+This is where Project Ishmael info will go.
+<br><br>
+Alsooooo events.
+</p>
+</div>
+
+	<img src="frontpic1.jpeg" id="hagarpicone" width="400px" height="450px" class="pagepic">
+</section>
+
+
+<div id="footer">
+<footer>
+	
+	For more information please call (504) 210-5064 or email HagarsHouse@gmail.com
+
+</footer>
+</div>
+
+
+
+</body>
+</html>
