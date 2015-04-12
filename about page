@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title> Hagar's House </title>
+<link rel="stylesheet" href="hhstylesheet2.css">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+</head>
+
+
+<body>
+<header> 
+<section id="topbit">
+
+<a href="hhwebtemplate.html"><img src="hagarlogo1.jpeg" width="400" height="150" id="logo"></a>
+
+
+<nav>
+<ul>
+	
+	<li><a href="aboutpage.html">About</a></li>
+	<li><a href="historypage.html">History</a></li>
+	<li><a href="gethelppage.html">Get Help</a></li>
+	<li><a href="getinvolvedpage.html">Get Involved</a></li>
+	<li><a href="donatepage.html">Donate</a></li>
+	<li><a href="newspage.html">News</a></li>
+</ul>
+</nav>
+</section>
+</header>
+
+
+<section class="content">
+<div id="textone">
+<p>
+<h1>About</h1>
+<h2>The Basics</h2>
+Hagar's House is a home for women and children that offers:
+<ul>
+	<li>A beautiful, clean, safe place to rest and call home</li>
+	<li>An open and empowering space that welcomes women, children and those who identify as transgender</li>
+	<li>An intentional community that is actively engaged in undoing the root causes of poverty</li>
+	<li>Holistic programming focused on physical health, emotional/spiritual health and social justice</li>
+	<li>A savings program in which working residents save 70% of their income, ideally $3,000 at the time of moving out</li>
+	<li>Healthy food and space to plant in a community garden</li>
+</ul>
+</p>
+</div>
+
+<img src="frontpic1.jpeg" id="hagarpicone" width="400px" height="450px" class="pagepic">
+
+<div id="texttwo">
+<p>
+<h2>Sustainable Transitions</h2>
+During a stay at Hagar's House, residents and staff work together in Capacity Building partnerships. At weekly, one-on-one meetings with a staff partner, residents set their goals and determine the steps they need to take to reach these goals. Hagar's House supports residents in all parts of their lives as they move towards transitioning out of Hagar's House and into sustainable permanent housing.
+</p>
+</div>
+
+<img src="frontpic2.jpeg" id="hagarpictwo" width="400" height="450" class="pagepic">
+
+</section>
+
+
+<div id="footer">
+<footer>
+	
+	For more information please call (504) 210-5064 or email HagarsHouse@gmail.com
+
+</footer>
+</div>
+
+
+
+</body>
+</html>
