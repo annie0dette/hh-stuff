@@ -60,13 +60,9 @@ During a stay at Hagar's House, residents and staff work together in Capacity Bu
 </section>
 
 
-<div id="footer">
-<footer>
-	
-	For more information please call (504) 210-5064 or email HagarsHouse@gmail.com
-
+<footer id="footer">
+	For more information please call <a href="tel:+1-504-210-5064">(504) 210-5064</a> or email <a href="mailto:HagarsHouse@gmail.com">HagarsHouse@gmail.com</a>
 </footer>
-</div>
 
 
 
