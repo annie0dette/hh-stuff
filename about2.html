@@ -2,8 +2,11 @@
 <html lang="en-US">
 <head>
 <title> Hagar's House </title>
-<link rel="stylesheet" href="hhpage.css">
+<link rel="stylesheet" href="hhpage2.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+<link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 </head>
 
@@ -11,31 +14,34 @@
 <body>
 <div class="container">
 <header> 
-<section id="topbit">
+<a href="hhwebtemplate.html"><img class="img-responsive" src="hagarlogo1.jpeg" width="400" height="150" id="logo"></a>
+</div>
 
-<a href="hhwebtemplate.html"><img src="hagarlogo1.jpeg" width="400" height="150" id="logo"></a>
 
-<br>
-<nav>
-<ul>
+<nav class="navbar-inverse">
+<div class="container-fluid">
+<div class="navbar-header">
+<ul class="nav navbar-pills nav-justified list-inline">
 	
-	<li class="navli"><a href="about.html">About</a></li>
-	<li class="navli"><a href="history.html">History</a></li>
-	<li class="navli"><a href="gethelppage.html">Get Help</a></li>
-	<li class="navli"><a href="getinvolvedpage.html">Get Involved</a></li>
-	<li class="navli"><a href="donate.html">Donate</a></li>
-	<li class="navli"><a href="news.html">News</a></li>
+	<li><a href="about.html">About</a></li>
+	<li><a href="history.html">History</a></li>
+	<li><a href="gethelppage.html">Get Help</a></li>
+	<li><a href="getinvolvedpage.html">Get Involved</a></li>
+	<li><a href="donate.html">Donate</a></li>
+	<li><a href="news.html">News</a></li>
 </ul>
+</div>
+</div>
 </nav>
-</section>
 </header>
 
 
 <section class="content">
-<div id="textone">
+<div class="container">
 <p>
-<h1>About</h1>
-<h2>The Basics</h2>
+<h1 class="page-header">About</h1>
+<div class="col-sm-6">
+<h3>The Basics</h3>
 Hagar's House is a home for women and children that offers:
 <ul>
 	<li>A beautiful, clean, safe place to rest and call home</li>
@@ -45,20 +51,23 @@ Hagar's House is a home for women and children that offers:
 	<li>A savings program in which working residents save 70% of their income, ideally $3,000 at the time of moving out</li>
 	<li>Healthy food and space to plant in a community garden</li>
 </ul>
+</div>
 </p>
+
+
+<img class="img-responsive" class="col-sm-6" src="frontpic1.jpeg" id="hagarpicone" width="400px" height="450px" class="pagepic">
 </div>
 
-<img src="frontpic1.jpeg" id="hagarpicone" width="400px" height="450px" class="pagepic">
-
-<div id="texttwo">
+<div class="container">
+<div class="col-sm-6 container" id="texttwo">
 <p>
 <h2>Sustainable Transitions</h2>
 During a stay at Hagar's House, residents and staff work together in Capacity Building partnerships. At weekly, one-on-one meetings with a staff partner, residents set their goals and determine the steps they need to take to reach these goals. Hagar's House supports residents in all parts of their lives as they move towards transitioning out of Hagar's House and into sustainable permanent housing.
-<span class="glyphicon glyphicon-search"></span>
 </p>
 </div>
+</div>
 
-<img src="frontpic2.jpeg" id="hagarpictwo" width="400" height="450" class="pagepic">
+<img class="img-responsive" class="col-sm-6" src="frontpic2.jpeg" id="hagarpictwo" width="400" height="450" class="pagepic">
 
 </section>
 </div>

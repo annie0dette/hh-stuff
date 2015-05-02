@@ -1,0 +1,410 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"top",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"tex",
+				"text-top"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"Mar",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ri",
+				"margin-right"
+			],
+			[
+				"s",
+				"disc"
+			],
+			[
+				"border-",
+				"border-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "about2.html",
+			"settings":
+			{
+				"buffer_size": 2915,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "hhpage2.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Hagars House Staff/Documents/GitHub/hh-stuff/bootstrap-3.3.4-dist/css/bootstrap.css",
+		"/C/Users/Hagars House Staff/Documents/GitHub/hh-stuff/news.html",
+		"/C/Users/Hagars House Staff/Documents/GitHub/hh-stuff/restive.js-master/restive.js",
+		"/C/Users/Hagars House Staff/Documents/newspage.html",
+		"/C/Users/Hagars House Staff/Documents/donatepage.html",
+		"/C/Users/Hagars House Staff/Documents/getinvolvedpage.html",
+		"/C/Users/Hagars House Staff/Documents/gethelppage.html",
+		"/C/Users/Hagars House Staff/Documents/aboutpage.html",
+		"/C/Users/Hagars House Staff/Documents/historypage.html",
+		"/C/Users/Hagars House Staff/Documents/hhstylesheet2.css",
+		"/C/Users/Hagars House Staff/Documents/hhwebtemplate.html",
+		"/C/Users/Hagars House Staff/Documents/frontpage.html",
+		"/C/Users/Hagars House Staff/Documents/hhstylesheet.css",
+		"/C/Users/Hagars House Staff/Documents/hhwebsite.html",
+		"/C/Users/Hagars House Staff/Documents/about.html",
+		"/C/Users/Hagars House Staff/Documents/stylesheet.css",
+		"/C/Users/Hagars House Staff/Documents/futurehhwebsite.html",
+		"/C/Users/Hagars House Staff/Documents/donate.html",
+		"/C/Users/Hagars House Staff/Documents/stylesheet"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"html"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "about2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								789,
+								789
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 195.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "hhpage2.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

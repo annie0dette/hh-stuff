@@ -5,55 +5,44 @@
 	margin-top: 1em;
 	width:25em;
 	display: block;
+	max-width: 100%
 	}
 
-#topbit {background-color: transparent;
-	border-style: solid;
-	border-width: 10px 0 0 0;
-	border-color: transparent;
+
+/*nav info*/
+
+nav.ul{list-style-type: none;
+	margin: 0 auto;
+	padding: 0;
+	overflow: hidden;
 	}
 
-ul {margin: 0;
-	padding: 0 5em 0 5em;
-	}
-
-nav li {display: inline;
-	border-style: solid;
-	border-color: purple;
-	border-radius: 10px;
-	text-decoration: none;
-	color: green;
-	background-color: purple;
-	padding-right: 1em;
-	padding-left: 1em;
-	font-weight: bold;
+nav {width: 75%;
 	text-align: center;
-	}
-
-
-nav {
-	background-color: purple;
-	font-weight: bolder;
-	display: block;
-	border-style: solid;
-	border-color: purple;
-	border-radius: 10px;
-	float: left;
-	margin: 2em 20% 2em 20%;
-	min-width: 50em
-	}
-	/*note: fix width issue*/
-
-* {
-
+	margin-left: auto;
+	margin-right: auto;
+	
 }
+
+li.navli  {display: inline-block;
+	text-align: center;
+	text-decoration: none;
+	margin-left: auto;
+	margin-right: auto;
+	width: 120px
+	}
+
+
+
+/*end nav info*/
+
 
 body {font-family: 'open sans';
 	margin: 0
 	}
 
-a {color: white;
-	text-decoration: none;}
+a {text-decoration: none}
+
 
 h1 {color: green}
 
@@ -98,7 +87,7 @@ footer {
 	border-radius: 10px;
 	border-style: solid;
 	border-color: transparent;
-	width: 32%;
+	max-width: 100%
 	}
 
 #hagarpicone {
