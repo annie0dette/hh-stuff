@@ -46,19 +46,13 @@ a {text-decoration: none}
 
 h1 {color: green}
 
-#textone {float: right;
-	background-color: white;
-	width: 35%;
-	margin-right: 15%;
+.abox{float: left;
+	margin-top: 5em;
 	padding-bottom: 5em;
+	display: block;
 	}
 
-#texttwo {float: left;
-	background-color: white;
-	width: 35%;
-	margin-left: 15%;
-	margin-top: 5em;
-	padding-bottom: 5em}
+
 
 .content {
 	padding-top: 2em;
@@ -90,15 +84,7 @@ footer {
 	max-width: 100%
 	}
 
-#hagarpicone {
-	margin: 3em 0 3em 15%;
-	float:left;
-}
 
-#hagarpictwo {
-	margin: 0 15% 3em 0;
-	float: right;
-}
 
 
 /*experimenting with styling for front page*/
@@ -115,7 +101,7 @@ a:hover {
     color: hsl(36,100%,50%);
 }
 
-a:active {color: yellow}
+a:active {color: gray}
 
 
 
